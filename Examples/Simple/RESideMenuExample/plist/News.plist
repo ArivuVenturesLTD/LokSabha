@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>name</key>
+		<string>NDTV</string>
+		<key>link</key>
+		<string>feed://feeds.feedburner.com/NdtvNews-TopStories?format=xml</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>1</key>
+	<dict>
+		<key>name</key>
+		<string>Times Now</string>
+		<key>link</key>
+		<string>feed://timesofindia.feedsportal.com/c/33039/f/533916/index.rss</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>name</key>
+		<string>India Today</string>
+		<key>link</key>
+		<string>http://indiatoday.intoday.in/rss/article.jsp?sid=36</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>name</key>
+		<string>BBC</string>
+		<key>link</key>
+		<string>feed://feeds.bbci.co.uk/news/world/asia/india/rss.xml</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>name</key>
+		<string>DD News</string>
+		<key>link</key>
+		<string>feed://www.ddinews.gov.in/rssNews/Pages/rssnews.aspx</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>name</key>
+		<string>Hindustan Times</string>
+		<key>link</key>
+		<string>http://feeds.hindustantimes.com/HT-IndiaSectionPage-Topstories</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>name</key>
+		<string>Indian Express</string>
+		<key>link</key>
+		<string>http://syndication.indianexpress.com/rss/798/latest-news.xml</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>name</key>
+		<string>IBN Live</string>
+		<key>link</key>
+		<string>http://ibnlive.in.com/ibnrss/rss/india/india.xml</string>
+		<key>active</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

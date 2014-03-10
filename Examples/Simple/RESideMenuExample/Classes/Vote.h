@@ -7,12 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SKSTableView.h"
 
 @class PBWebViewController;
 
 
-@interface Vote : UIViewController <SKSTableViewDelegate>
+@interface Vote : UIViewController <UITableViewDelegate,UITableViewDataSource>
 
 @property (nonatomic, weak) IBOutlet UITableView *tableView;
 @property (strong, nonatomic) PBWebViewController *webViewController;

@@ -9,6 +9,8 @@
 #import "DEMOAppDelegate.h"
 #import "DEMOMenuViewController.h"
 #import "News.h"
+#import "DataClass.h"
+
 
 @implementation DEMOAppDelegate
 
@@ -51,5 +53,20 @@
 {
     NSLog(@"didHideMenuViewController");
 }
+
+
+
+-(void)applicationDidEnterBackground:(UIApplication *)application {
+//    [[[DataClass class] sharedManager] encodeAndSaveData];
+}
+
+-(void)applicationWillResignActive:(UIApplication *)application {
+//    [[[DataClass class] sharedManager] encodeAndSaveData];
+}
+
+-(void)applicationWillTerminate:(UIApplication *)application {
+//    [[[DataClass class] sharedManager] encodeAndSaveData];
+}
+
 
 @end

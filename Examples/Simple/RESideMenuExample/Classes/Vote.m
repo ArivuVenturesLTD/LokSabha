@@ -7,8 +7,6 @@
 //
 
 #import "Vote.h"
-#import "SKSTableView.h"
-#import "SKSTableViewCell.h"
 #import "PBWebViewController.h"
 #import "PBSafariActivity.h"
 
